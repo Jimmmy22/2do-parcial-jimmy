@@ -1,0 +1,7 @@
+.Container{
+    height: 700px;
+    background-image: linear-gradient(rgba(5,14,24,0.60), rgba(5,14,24,0.69)), 
+    url(https://png.pngtree.com/background/20210709/original/pngtree-2-5d-office-computer-computer-picture-image_930172.jpg); 
+    background-size: cover;
+    background-color: #05668d;
+}

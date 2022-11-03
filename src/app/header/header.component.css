@@ -1,0 +1,14 @@
+*{
+    background-color: #001d3d;
+    height: 75px;
+    font-family: 'Roboto', sans-serif;
+    border: 2px solid #0a9396;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.20);
+}
+
+h1{
+    color: #ebf2fa;
+    text-align: center;
+    line-height: 75px;
+    font-size: 45px;
+}

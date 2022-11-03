@@ -1,0 +1,77 @@
+h2{
+text-align: center;
+margin-top: 1%;
+font-size: 30px;
+color: azure;
+}
+
+p{
+    text-align: center;
+    margin-top: 0.5%;
+    font-size: 20px;
+    color: azure;
+    }
+
+form{
+    width: 40%;
+    height: 370px;
+    margin: 1.5% auto;
+    color: azure;
+    background: rgba(10, 14, 24, 0.70);
+    padding: 4%;
+    border: 2px solid #0a9396;
+}
+
+input{
+    background: rgba(5, 7, 12, 0.40);
+    background-color: #0a0a23;
+    border: 2px solid #0a9396;
+    color: #ffffff;
+}
+
+label
+{
+    display: block;
+    font-size: 20px;
+    margin-top: 1%;
+}
+
+.id{
+    margin-top: -3%;
+}
+
+#id, #fecha, #total, #proveedor {
+  margin: 10px 0 0 0;
+  width: 100%;
+  min-height: 2em;
+}
+
+#validez{
+    width: unset;
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+}
+
+#checkbox{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.botones {
+    width: 15%;
+    margin: 1.5% auto;
+    height: 2em;
+    font-size: 1.1rem;
+    background-color: #3b3b4f;
+    border-color: #0a9396;
+    min-width: 250px;
+    float: left;
+  }
+
+#guardar, #eliminar{
+    margin-top: 3.5%;
+}
+
+#eliminar, #modificar{
+    margin-left: 7%;
+}
